@@ -1,0 +1,11 @@
+krakedev\utils\ConexionBDD.class
+krakedev\servicios\ServiciosPronostico.class
+krakedev\excepciones\KarkeDevExcepcion.class
+krakedev\pronostico\JAXRSConfiguration.class
+krakedev\entidades\Paises.class
+krakedev\entidades\Partidos.class
+krakedev\entidades\Pronostico.class
+krakedev\bdd\EquipoBDD.class
+krakedev\bdd\PronosticoBDD.class
+krakedev\entidades\Usuario.class
+krakedev\pronostico\resources\JavaEE8Resource.class
